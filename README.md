@@ -8,7 +8,7 @@ This is a Python implementation of the classic arcade game "Alien Invasion" usin
 ## Directory Structure
 
 ```
--alien_invasion/
+-**alien_invasion/**
 -│
 -├── alien_invasion.py
 -├── settings.py
